@@ -1,13 +1,19 @@
 import './App.css';
 import React from 'react';
 import Navbar from './components/Navbar';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
-  return (
-    <React.Fragment>
-      <h1>Hello!</h1>
-    </React.Fragment>
-  );
+	return (
+		<React.Fragment>
+			<Router>
+				<Navbar />
+				<Routes>
+					<Route path="/" exact />
+				</Routes>
+			</Router>
+		</React.Fragment>
+	);
 }
 
 export default App;
