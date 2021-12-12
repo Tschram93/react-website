@@ -1,0 +1,11 @@
+:root {
+	--primary: #fff;
+}
+
+btn {
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    outline: none;
+	padding: 8px 20px;
+}
