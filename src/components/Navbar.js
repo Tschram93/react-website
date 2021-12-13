@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Button } from './Button';
 import './Navbar.css';
 
 function Navbar() {
@@ -42,7 +43,7 @@ function Navbar() {
                             <Link to='/sign-up' className='nav-links-mobile' onClick={closeMobileMenu}> Sign Up </Link>
                         </li>
                     </ul>
-                    {button && <button buttonStyle='btn--outline'>Sign-Up</button>}
+                    {button && <Button buttonStyle='btn--outline'>Sign-Up</Button>}
 				</div>
 			</nav>
 		</>
