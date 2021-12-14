@@ -1,7 +1,9 @@
 # react-travel-website
-
-![Image alt Text](relative-path.png)
-            
+![Home Page](./img-readme.JPG)
+![Destinations website section](img-readme2.JPG)
+![Footer Section of website](img-readme3.JPG)
+![Sign Up webpage image](img-readme4.JPG)
+     
 ## Link:
 https://react-travel-website-ts.herokuapp.com/
 
