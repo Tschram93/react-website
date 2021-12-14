@@ -1,4 +1,4 @@
-import react from ("react");
+import React from 'react';
 import '../../App.css';
 
 function Products() {
@@ -10,4 +10,3 @@ function Products() {
 }
 
 export default Products
-
