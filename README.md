@@ -4,6 +4,8 @@
             
 ## Link:
 https://react-travel-website-ts.herokuapp.com/
+
+---
 ## Description: 
 This is a webpage that I used to learn how to use the React library better.
 
@@ -11,7 +13,7 @@ This is a webpage that I used to learn how to use the React library better.
 Normal webpage functionality.
 
 ## Dependencies
-The dependency for my app that was used is "create-react-app, react-app-rewired, react-router-dom"
+The dependencies used for my website that were used are: "create-react-app, react-app-rewired, react-router-dom"
 
 ## Testing
 None
