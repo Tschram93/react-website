@@ -105,7 +105,6 @@ function Footer() {
 						<Link
 							class="social-icon-link twitter"
                             to={{ pathname: 'https://www.linkedin.com/in/travis-schram-a37727217/' }} target="_blank"
-							target="_blank"
 							aria-label="LinkedIn"
 						>
 							<i
@@ -120,7 +119,6 @@ function Footer() {
                             to={{ pathname: 'https://www.github.com/tschram93/' }} target="_blank" >
 							<i
 								className="fab fa-github"
-                                to={{ pathname: 'https://www.github.com/tschram93/' }} target="_blank" 
 							/>
 						</Link>
 					</div>
