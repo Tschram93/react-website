@@ -1,5 +1,6 @@
 import React from 'react';
-import CardItem from './CardItems';
+import './Cards.css';
+import CardItems from './CardItems';
 
 function Cards() {
 	return (
@@ -8,7 +9,7 @@ function Cards() {
 			<div className="cards__container">
 				<div className="cards__wrapper">
 					<ul className="cards__items">
-						<CardItem />
+						<CardItems src="images/img-9.jpg" path="/services" />
 					</ul>
 				</div>
 			</div>
