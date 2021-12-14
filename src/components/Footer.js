@@ -104,27 +104,23 @@ function Footer() {
 						</Link>
 						<Link
 							class="social-icon-link twitter"
-							to="/"
+                            to={{ pathname: 'https://www.linkedin.com/in/travis-schram-a37727217/' }} target="_blank"
 							target="_blank"
 							aria-label="LinkedIn"
 						>
 							<i
 								class="fab fa-linkedin"
-								to={{
-									pathname:
-										'https://www.linkedin.com/in/travis-schram-a37727217/',
-								}}
+                                to={{ pathname: 'https://www.linkedin.com/in/travis-schram-a37727217/' }} target="_blank"
 							/>
 						</Link>
 						<Link
 							class="social-icon-link github"
 							target="_blank"
 							aria-label="Github"
-							to={'https://www.github.com/tschram93/'}
-						>
+                            to={{ pathname: 'https://www.github.com/tschram93/' }} target="_blank" >
 							<i
 								className="fab fa-github"
-								to={'https://www.github.com/tschram93/'}
+                                to={{ pathname: 'https://www.github.com/tschram93/' }} target="_blank" 
 							/>
 						</Link>
 					</div>
