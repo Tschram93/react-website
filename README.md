@@ -1,8 +1,8 @@
 # react-travel-website
-![Home Page](./img-readme.JPG)
-![Destinations website section](img-readme2.JPG)
-![Footer Section of website](img-readme3.JPG)
-![Sign Up webpage image](img-readme4.JPG)
+![Home Page](./assets/img-readme.JPG)
+![Destinations website section](./assets/img-readme2.JPG)
+![Footer Section of website](./assets/img-readme3.JPG)
+![Sign Up webpage image](./assets/img-readme4.JPG)
      
 ## Link:
 https://react-travel-website-ts.herokuapp.com/
